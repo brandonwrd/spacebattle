@@ -4,7 +4,7 @@ hull - hitpoints/health = 20
 firepower = 5
 accuracy = 0.7
 
-Alien ship properties:
+Alien ship properties (6):
 
 hull = between 3 and 6
 firepower = between 2 and 4
@@ -17,8 +17,8 @@ accuracy = 0.6 and 0.8
 2. Make an alien ship object (DONE)
 3. Make a battle between USS Schwarz and an alien ship
 
-4. Make a method where the USS Schwarz attacts a target
-5. Make the method reduce the hull of the target by the firepower of the USS Schwarz
+4. Make a method where the USS Schwarz attacts a target (DONE)
+5. Make the method reduce the hull of the target by the firepower of the USS Schwarz (DONE)
 
 ---------------------------------------
 
